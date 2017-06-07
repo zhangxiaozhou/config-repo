@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  rabbitmq:
+    host: 106.14.163.104
+    port: 5672
+    username: zhangxiaozhou
+    password: yunaxiaozhou1
+
