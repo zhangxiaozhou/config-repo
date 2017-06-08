@@ -1,0 +1,11 @@
+server:
+  port: 9090
+spring:
+  rabbitmq:
+      host: 106.14.163.104
+      port: 5672
+      username: zhangxiaozhou
+      password: yunaxiaozhou1
+name: 秋意浓,离人心上秋意浓
+
+
